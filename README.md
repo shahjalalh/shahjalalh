@@ -26,10 +26,10 @@
 <br/>
 
 - 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/)
-- 🌱 I’m currently learning Dart and Flutter
+- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Docker, Python
+- 💬 Ask me about [Docker](https://www.docker.com/), [Python](https://www.python.org/)
 - 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/shahjalal-hossain-3aa76139), [Twitter](https://twitter.com/shahjalalh)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Crazy about Python, Docker
