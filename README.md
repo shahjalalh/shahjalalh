@@ -11,6 +11,9 @@
 
 ### Connect with me:
 
+<a href="https://medium.com/@shahjalalh">
+  <img align="left" alt="Shahjalal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <a href="https://github.com/shahjalalh">
   <img align="left" alt="Shahjalal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
