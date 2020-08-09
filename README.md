@@ -1,13 +1,13 @@
 ## Hola, I'm [Shahjalal!](https://shahjalalh.github.io) 👋
 
-- 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/)
+- 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/), [Django](https://www.djangoproject.com/)
 - 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about [Docker](https://www.docker.com/), [Python](https://www.python.org/), [Django](https://www.djangoproject.com/)
 - 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/shahjalal-hossain-3aa76139), [Twitter](https://twitter.com/shahjalalh)
 - 🥅 2020 Goals: Become a - Full Stack Developer
-- ⚡ Fun fact: Crazy about Python, Docker, Django
+- ⚡ Fun fact: Crazy about Python, Docker and Django
 
 ### Connect with me:
 
