@@ -2,6 +2,19 @@
 
 <br/>
 
+- 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/)
+- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
+- 👯 I’m looking to collaborate on github
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about [Docker](https://www.docker.com/), [Python](https://www.python.org/), [Django](https://www.djangoproject.com/)
+- 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/shahjalal-hossain-3aa76139), [Twitter](https://twitter.com/shahjalalh)
+- 🥅 2020 Goals: Become a - Full Stack Developer
+- ⚡ Fun fact: Crazy about Python, Docker, Django
+
+<br/>
+
+### Connect with me:
+
 <a href="https://github.com/shahjalalh">
   <img align="left" alt="Shahjalal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -20,19 +33,6 @@
 <a href="https://www.facebook.com/shahjalalh">
   <img align="left" alt="Shahjalal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
-<br/>
-<br/>
-
-- 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/)
-- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
-- 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about [Docker](https://www.docker.com/), [Python](https://www.python.org/), [Django](https://www.djangoproject.com/)
-- 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/shahjalal-hossain-3aa76139), [Twitter](https://twitter.com/shahjalalh)
-- 🥅 2020 Goals: Become a - Full Stack Developer
-- ⚡ Fun fact: Crazy about Python, Docker, Django
 
 <br/>
 
