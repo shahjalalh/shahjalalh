@@ -1,6 +1,5 @@
 ## Hola, I'm [Shahjalal!](https://shahjalalh.github.io) 👋
 
-<br/>
 
 - 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/)
 - 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
@@ -11,7 +10,6 @@
 - 🥅 2020 Goals: Become a - Full Stack Developer
 - ⚡ Fun fact: Crazy about Python, Docker, Django
 
-<br/>
 
 ### Connect with me:
 
@@ -34,7 +32,6 @@
   <img align="left" alt="Shahjalal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br/><br/>
 
 ### Languages and Tools:
 
