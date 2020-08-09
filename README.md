@@ -10,6 +10,7 @@
 - 🥅 2020 Goals: Become a - Full Stack Developer
 - ⚡ Fun fact: Crazy about Python, Docker, Django
 
+<br />
 
 ### Connect with me:
 
@@ -32,6 +33,7 @@
   <img align="left" alt="Shahjalal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br />
 
 ### Languages and Tools:
 
@@ -48,7 +50,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<br/><br/>
+<br />
 
 <div align="center">
 
