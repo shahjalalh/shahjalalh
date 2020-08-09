@@ -26,13 +26,24 @@
 <br/>
 
 - 🔭 I’m currently working on Odoo 13
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Docker, Python
 - 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/shahjalal-hossain-3aa76139), [Twitter](https://twitter.com/shahjalalh)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Crazy about Python
+- ⚡ Fun fact: Crazy about Python, Docker
+
+<br/>
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <!--
 **shahjalalh/shahjalalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
