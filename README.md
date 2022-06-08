@@ -1,6 +1,6 @@
 ## Hola, I'm [Shahjalal!](https://shahjalalh.github.io) 👋
 
-- 🔭 I’m currently working on [Odoo 13](https://www.odoo.com/), [Django](https://www.djangoproject.com/)
+- 🔭 I’m currently working on [Django](https://www.djangoproject.com/), [Scrapy](https://scrapy.org/), [Splash](https://github.com/scrapinghub/splash)
 - 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Flutter
